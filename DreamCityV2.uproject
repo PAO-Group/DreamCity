@@ -54,6 +54,14 @@
 		{
 			"Name": "PCGWaterInterop",
 			"Enabled": true
+		},
+		{
+			"Name": "WebBrowserWidget",
+			"Enabled": true
+		},
+		{
+			"Name": "WebAPI",
+			"Enabled": true
 		}
 	]
 }
