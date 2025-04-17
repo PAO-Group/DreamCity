@@ -11025,13 +11025,13 @@ Shadow=0</a:DisplayPreferences>
 </o:Class>
 <o:Class Id="o115">
 <a:ObjectID>6142E446-B7CC-4929-8577-9E6C71433E52</a:ObjectID>
-<a:Name>MeshGenerator</a:Name>
-<a:Code>MeshGenerator</a:Code>
+<a:Name>WidgetGenerator</a:Name>
+<a:Code>WidgetGenerator</a:Code>
 <a:CreationDate>1744338017</a:CreationDate>
 <a:Creator>榴弹炮</a:Creator>
-<a:ModificationDate>1744772646</a:ModificationDate>
+<a:ModificationDate>1744774407</a:ModificationDate>
 <a:Modifier>榴弹炮</a:Modifier>
-<a:Comment>网格体生成器</a:Comment>
+<a:Comment>组件生成器</a:Comment>
 <a:Stereotype>域</a:Stereotype>
 <a:UseParentNamespace>0</a:UseParentNamespace>
 <a:GlobalObjectID/>
@@ -11057,9 +11057,9 @@ Shadow=0</a:DisplayPreferences>
 <a:Code>WidgetBuilder</a:Code>
 <a:CreationDate>1744337960</a:CreationDate>
 <a:Creator>榴弹炮</a:Creator>
-<a:ModificationDate>1744774208</a:ModificationDate>
+<a:ModificationDate>1744774401</a:ModificationDate>
 <a:Modifier>榴弹炮</a:Modifier>
-<a:Comment>网格体创建器</a:Comment>
+<a:Comment>组件创建器</a:Comment>
 <a:Stereotype>域</a:Stereotype>
 <a:UseParentNamespace>0</a:UseParentNamespace>
 <a:GlobalObjectID/>
