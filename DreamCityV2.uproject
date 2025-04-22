@@ -60,10 +60,6 @@
 			"Enabled": true
 		},
 		{
-			"Name": "WebAPI",
-			"Enabled": true
-		},
-		{
 			"Name": "ActorPalette",
 			"Enabled": true
 		},
@@ -123,6 +119,15 @@
 			"Name": "Rocket",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/dc179ca63d3a49af89be1172585e2f7b"
+		},
+		{
+			"Name": "RegexInBP",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/16339a5a34cb452c9a277bc3044b4608"
+		},
+		{
+			"Name": "HoudiniEngine",
+			"Enabled": true
 		}
 	]
 }
