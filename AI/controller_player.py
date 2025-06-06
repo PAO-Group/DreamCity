@@ -14,7 +14,10 @@ class CmdWebShowMessageFromEntity(Command):
 	message: str
 	pass
 
-class ControllerWeb(CtrlOutter):
+class CtrlPlayer(CtrlOutter):
+	'''
+	玩家控制器
+	'''
 	commands = [CmdWebBroadCast]
 	web_api: IWebApi
 	async def run(self):
