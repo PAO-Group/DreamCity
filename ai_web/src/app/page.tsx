@@ -1,7 +1,7 @@
 'use client'
 import Image from "next/image";
 import { css } from '@emotion/css';
-import { Input } from "antd";
+import { Input, Splitter } from "antd";
 
 export default function Home() {
   return (
@@ -10,7 +10,9 @@ export default function Home() {
 				<div className={css`font-size:clamp(3.5rem, 5vw, 5rem); line-height:1.1;`}>
 					Welcome to Dream World!
 				</div>
-				<Input.TextArea></Input.TextArea>
+				<div>
+					此处添加交互框
+				</div>
       </main>
       <footer className="row-start-3 flex gap-[24px] flex-wrap items-center justify-center">
         <a
